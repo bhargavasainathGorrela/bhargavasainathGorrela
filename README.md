@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargavasainath</h1>
 <h3 align="center">Front-End Developer | MCA Student | Java & SQL Enthusiast</h3>
-<img align="right" alt="Coding width="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 - 🔭 I’m currently working in **Daxinsoft Technologies**
 
 - 🏆 Highlights **Internship:— Java, SQL. Certifications: APSSDC (Web Dev), CVCORP (HTML/CSS/SQL), Guvi Geek (JS).**
