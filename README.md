@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 - 🔭 I’m currently working in **Daxinsoft Technologies**
 
-- 🏆 Highlights **Internship:— Java, SQL. Certifications: APSSDC (Web Dev), CVCORP (HTML/CSS/SQL), Guvi Geek (JS).**
+- 🏆 **Internship(APSSDC) :— (Web Dev)HTML5/CSS3/Bootstrap
+   Certifications(CVCORP) :— Java, SQL.
+   Guvi Geek:— Javascript.**
 
 - 🧰 Tech Stack **Front-end: React, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap Languages: Java, SQL Tools & Testing: Git, VS Code, Chrome Databases: MySQL**
 
